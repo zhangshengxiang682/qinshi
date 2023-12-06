@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+text-align: center;
+font-size: 24px;
+color: #333;
+background-color: #f2f2f2;
+background-image: url(%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-17%20203632.png);
+background-size:100%;
+}
+.math {
+display: inline-block;
+margin: 20px;
+padding: 20px;
+border: 2px solid #ccc;
+transition: all 0.3s ease;
+font-size: 48px;
+color: #57EF08;
+}
+.math:hover .link {
+display: block;
+}
+.link {
+display: none;
+margin: 20px;
+padding: 20px;
+border: 2px solid #ccc;
+transition: all 0.3s ease;
+}
+.link a {
+text-decoration: none;
+font-size: 20px;
+color: #57EF08;
+}
+.back-link {
+font-size: 20px;
+color: #57EF08;
+text-decoration: none;
+margin-bottom: 20px;
+}
+</style>
+<meta charset="utf-8">
+</head>
+<body>
+<a href="https://plafle.github.io/CS2306/" class="back-link">回到班级</a>
+<div class="math">
+<p>527</p>
+<div class="link">
+<a href="page1.html">王子杰</a>
+<a href="page2.html">毛天成</a>
+<a href="page3.html">张昕旸</a>
+<a href="https://zhangshengxiang682.github.io/-">张盛翔</a>
+</div>
+</div>
+</body>
+</html>
+
